@@ -1,5 +1,5 @@
--- Nama: Dimas
--- NIM: 22241030
+-- Nama: azmi wahyuni
+-- NIM: 22241034
 -- Modul: 1
 
 -- Akses Database
